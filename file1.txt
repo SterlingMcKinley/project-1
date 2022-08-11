@@ -5,3 +5,7 @@ Git is very fun and appears easy.
 I am making updates. 
 
 The reason for this will be test out commiting updates to a file already committed to the repo. Lets see how this goes.
+
+This is an update to the master. I switch to secondBranch and made updates.
+
+I switched back to master currently testing the update I JUST made. 
